@@ -1,0 +1,45 @@
+{
+ "persons":
+[
+{
+    "name":"chany",
+    "address":
+     {
+       "city":"j",
+       "strit":
+         {
+           "name":"nechemya",
+           "number":"7"
+         }
+     }
+}
+    ,
+    
+{
+    "name":"pniny",
+    "address":
+     {
+       "city":"bb",
+       "strit":
+         {
+           "name":"nechemya",
+           "number":"30"
+         }
+     }
+}
+    ,
+    
+{
+    "name":"st",
+    "address":
+     {
+       "city":"ashdod",
+       "strit":
+         {
+           "name":"rashbi",
+           "number":"23"
+         }
+     }
+}
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "shelves": [
+        {
+            "books": [
+                {
+                    "author": "bbb",
+                    "title": "rol",
+                    "num_of_pages": 150
+                },
+                {
+                    "author": "aaa",
+                    "title": "my",
+                    "num_of_pages": 200
+                }
+            ],
+            "is_full": false
+        },
+        {
+            "books": [
+                {
+                    "author": "vvv",
+                    "title": "mother",
+                    "num_of_pages": 300
+                },
+                {
+                    "author": "ddd",
+                    "title": "love",
+                    "num_of_pages": 450
+                }
+            ],
+            "is_full": false
+        },
+        {
+            "books": [
+                {
+                    "author": "fff",
+                    "title": "dear",
+                    "num_of_pages": 300
+                },
+                {
+                    "author": "ttt",
+                    "title": "by",
+                    "num_of_pages": 450
+                }
+            ],
+            "is_full": false
+        }
+    ],
+    "reders": []
+}
