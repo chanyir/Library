@@ -24,5 +24,3 @@ class Shelf:
          return lst
 
 
-
-       

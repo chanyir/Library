@@ -123,11 +123,7 @@ def ordering_all_books():
 # case 9
 def saving_all_data():
     name_file=input("Enter reader name file")
-    # serializable_shelves = []
-    # for shelf in l.shelves:
-    #     shelf_dict = shelf
-    #     serializable_shelves.append(shelf_dict)
-    
+
     library_dic={"shelves":[vars(shelf)for shelf in l.shelves],"reders":[vars(reder) for reder in l.readers]}
     with open(f"./Files/{name_file}.json","w") as file:
         json.dump(library_dic,file)

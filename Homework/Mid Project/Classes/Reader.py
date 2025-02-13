@@ -2,7 +2,6 @@
 
 from datetime import datetime
 
-
 class Reader:
     def __init__(self,id=0,name=""):
         self.id=id

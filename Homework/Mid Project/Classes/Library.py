@@ -93,44 +93,7 @@ class Library:
            print("-----")            
     
 
-               
-             
-# b1=Book("st","aa",800)
-# b2=Book("pniny","bb",400)
-# b3=Book("st","cc",600)
-# b4=Book("st","dd",550)
-# b5=Book("rachel","ee",500)
-# sh1=Shelf([b1,b2])
-# sh2=Shelf([b3,b4])
-# sh3=Shelf([b5])
-# raeder1=Reader(1,"chany")
-# raeder2=Reader(2,"pniny")
-# raeder3=Reader(3,"st")
-# raeder4=Reader(4,"lea")
-# raeder5=Reader(5,"rachel")
-# raeder6=Reader(6,"rut")
-# raeder7=Reader(7,"et")
 
-
-# # lib=Library()
-# lib=Library([sh1,sh2,sh3],[raeder1,raeder2,raeder3,raeder4,raeder5,raeder6,raeder7])
-# lib.reader_read_book("chany","bb")
-# lib.reader_read_book("lea","ee")
-# lib.remove_reader("et")
-
-# arr=lib.search_by_autho("st")
-# for a in arr:
-#     print (a.title)
-
-# lib.print_data_r()
-# lib.change_locations("bb","ee")
-# lib.change_locations_in_same_shelf(1,0,1)
-# lib.order_all_books()
-# lib.print_data()
-
-         
-              
-              
          
 
 
